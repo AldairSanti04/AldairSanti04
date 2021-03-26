@@ -10,6 +10,8 @@ CECyT NO. 1 | Digital Systems Technician Intern</em>
 ### FrontEnd Developer 🚀
 I am interested in new technologies and I am always looking for new challenges. Always willing to learn new things and constantly improving my knowledge.
 
+![Aldair's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldairSanti04&show_icons=true&theme=tokyonight&hide=issues,contribs)
+
 <a href="https://www.linkedin.com/in/aldair-santiago-927108190/" target="_blank">
   <img align="right" alt="Linkedin" height="25px" src="https://www.flaticon.es/svg/vstatic/svg/733/733561.svg?token=exp=1616701551~hmac=33a8769192eb4e285037c2585dda8f15"/>
 </a>
