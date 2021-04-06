@@ -5,7 +5,7 @@
 ### Instituto Politécnico Nacional 🎓
 <em>UPIICSA | Computer Engineering Intern
 <br>
-CECyT NO. 1 | Digital Systems Technician Intern</em>
+CECyT No. 1 | Digital Systems Technician Intern</em>
  
 ### FrontEnd Developer 🚀
 I am interested in new technologies and I am always looking for new challenges. Always willing to learn new things and constantly improving my knowledge.
