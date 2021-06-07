@@ -13,16 +13,23 @@ I am interested in new technologies and I am always looking for new challenges. 
 ![Aldair's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldairSanti04&show_icons=true&theme=tokyonight&hide=issues,contribs)
 
 <a href="https://www.linkedin.com/in/aldair-santiago-927108190/" target="_blank">
-  <img align="right" alt="Linkedin" height="25px" src="https://www.flaticon.es/svg/vstatic/svg/733/733561.svg?token=exp=1616701551~hmac=33a8769192eb4e285037c2585dda8f15"/>
+ <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aldairsanti27/" target="_blank">
-  <img align="right" alt="Instagram" height="25px" src="https://www.flaticon.es/svg/vstatic/svg/733/733558.svg?token=exp=1616701551~hmac=7a429789cb7bfae0f28ba17cf2a0af66"/>
+  <img align="right" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <!--
 **AldairSanti04/AldairSanti04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+```javascript
+const Aldair = {
+  name: 'Jorge Aldair Santiago Rufino',
+  nicknames: ['Flash', 'Fleshito', 'Rufus', 'Rufito'],
+  code: ['JavaScript', 'HTML', 'CSS', 'C++'],
+  tools: ['Node.js', 'Express.js']
+}
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
