@@ -1,5 +1,10 @@
 # Hello there, I´m Aldair 👋
 
+[![Linkedin Aldair](https://img.shields.io/badge/-Aldair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aldair-santiago/)](https://www.linkedin.com/in/aldair-santiago/)
+[![Instagram Aldair](https://img.shields.io/badge/-aldairsanti27-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aldairsanti27/)](https://www.instagram.com/aldairsanti27/)
+[![Gmail Aldair](https://img.shields.io/badge/-aldairsanti04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldairsanti04@gmail.com)](mailto:aldairsanti04@gmail.com)
+[![GitHub Aldair](https://img.shields.io/github/followers/AldairSanti04?label=follow&style=social)](https://github.com/AldairSanti04)
+
 ![Jorge Aldair Santiago Rufino (1)](https://user-images.githubusercontent.com/43126607/123864052-e8d52c00-d8ef-11eb-9e82-0d84e12532ce.jpg)
 
 ### Instituto Politécnico Nacional 🎓
@@ -13,10 +18,12 @@ I am interested in new technologies and I am always looking for new challenges. 
 
 ```javascript
 const Aldair = {
+  pronouns: 'He' | 'Him',
   name: 'Jorge Aldair Santiago Rufino',
   nicknames: ['Flash', 'Fleshito', 'Rufus', 'Rufito'],
   code: ['JavaScript', 'HTML', 'CSS', 'C++'],
-  tools: ['Node.js', 'Express.js']
+  tools: ['Node.js', 'Express.js'],
+  databases: ['MySQL', 'SQL Server']
 }
 ```
 
@@ -31,17 +38,13 @@ const Aldair = {
 
 #
 
-<a href="https://www.linkedin.com/in/aldair-santiago-927108190/" target="_blank">
- <img align="right" alt="Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/aldairsanti27/" target="_blank">
-  <img align="right" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="right"><em><b>Right here, right now, I'll surpass my limits.</b></em></p>
+
 <!--
 **AldairSanti04/AldairSanti04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AldairSanti04.AldairSanti04)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
