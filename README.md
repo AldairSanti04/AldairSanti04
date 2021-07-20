@@ -5,12 +5,15 @@
 [![Gmail Aldair](https://img.shields.io/badge/-aldairsanti04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldairsanti04@gmail.com)](mailto:aldairsanti04@gmail.com)
 [![GitHub Aldair](https://img.shields.io/github/followers/AldairSanti04?label=follow&style=social)](https://github.com/AldairSanti04)
 
-![Jorge Aldair Santiago Rufino (1)](https://user-images.githubusercontent.com/43126607/123864052-e8d52c00-d8ef-11eb-9e82-0d84e12532ce.jpg)
+![Jorge Aldair Santiago Rufino](https://user-images.githubusercontent.com/43126607/126249958-621463d3-b929-41e0-a9dd-ebd630a2d846.png)
 
-### Instituto Politécnico Nacional 🎓
-<em>UPIICSA | Computer Engineering Intern
+### Education 🎓
+<em>IPN - UPIICSA | Computer Engineering Intern
 <br>
-CECyT No. 1 | Digital Systems Technician Intern</em>
+IPN - CECyT No. 1 | Digital Systems Technician Intern
+<br>
+TECLA Coding Academy | Backend Node.js
+</em>
 #
  
 ### Web Developer 🚀
@@ -20,6 +23,8 @@ I am interested in new technologies and I am always looking for new challenges. 
 const Aldair = {
   pronouns: 'He' | 'Him',
   name: 'Jorge Aldair Santiago Rufino',
+  age: 23,
+  birthday: 'April 27',
   nicknames: ['Flash', 'Fleshito', 'Rufus', 'Rufito'],
   code: ['JavaScript', 'HTML', 'CSS', 'C++'],
   tools: ['Node.js', 'Express.js'],
@@ -32,7 +37,7 @@ const Aldair = {
 ### My GitHub Stats
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=AldairSanti04&show_icons=true&theme=tokyonight&hide=issues,contribs">
- <br>
+ <br><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairSanti04&show_icons=true&theme=tokyonight&hide=typescript&layout=compact">
 </p>
 
