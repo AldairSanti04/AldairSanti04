@@ -27,8 +27,8 @@ const Aldair = {
   birthday: 'April 27',
   nicknames: ['Flash', 'Fleshito', 'Rufus', 'Rufito'],
   code: ['JavaScript', 'HTML', 'CSS', 'C++'],
-  tools: ['Node.js', 'Express.js'],
-  databases: ['MySQL', 'SQL Server']
+  tools: ['Node.js', 'Express.js', 'Graphql'],
+  databases: ['MySQL', 'SQL Server', 'PostgreSQL']
 }
 ```
 
