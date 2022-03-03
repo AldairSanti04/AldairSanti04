@@ -5,7 +5,7 @@
 [![Gmail Aldair](https://img.shields.io/badge/-aldairsanti04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldairsanti04@gmail.com)](mailto:aldairsanti04@gmail.com)
 [![GitHub Aldair](https://img.shields.io/github/followers/AldairSanti04?label=follow&style=social)](https://github.com/AldairSanti04)
 
-![Jorge Aldair Santiago Rufino](https://user-images.githubusercontent.com/43126607/126249958-621463d3-b929-41e0-a9dd-ebd630a2d846.png)
+![Jorge Aldair Santiago Rufino](https://user-images.githubusercontent.com/43126607/156643518-bc51852b-7d1d-4508-b40b-152195fc3928.png)
 
 ### Education 🎓
 <em>IPN - UPIICSA | Computer Engineering Intern
