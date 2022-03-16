@@ -30,7 +30,7 @@ const Aldair = {
   frontend: ['HTML', 'CSS', 'Bootstrap', 'React'],
   backend: ['Node', 'Express', 'Graphql'],
   movile: ['Ionic', 'React Native'],
-  database: ['MySQL', 'SQL Server', 'Postgresql', 'Redis', 'Mongo DB']
+  database: ['MySQL', 'SQL Server', 'Postgresql', 'Redis', 'Mongo DB'],
   other: ['Unreal Engine', 'Docker', 'Git', 'Arduino']
   }
 ```
