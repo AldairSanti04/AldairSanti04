@@ -16,7 +16,7 @@ TECLA Coding Academy | Backend Node.js
 </em>
 #
  
-### Web Developer 🚀
+### Backend Developer 🚀
 I am interested in new technologies and I am always looking for new challenges. Always willing to learn new things and constantly improving my knowledge.
 
 ```javascript
@@ -26,10 +26,13 @@ const Aldair = {
   age: 23,
   birthday: 'April 27',
   nicknames: ['Flash', 'Fleshito', 'Rufus', 'Rufito'],
-  code: ['JavaScript', 'HTML', 'CSS', 'C++'],
-  tools: ['Node.js', 'Express.js', 'Graphql'],
-  databases: ['MySQL', 'SQL Server', 'PostgreSQL']
-}
+  programming: ['JavaScript', 'C++'],
+  frontend: ['HTML', 'CSS', 'Bootstrap', 'React'],
+  backend: ['Node', 'Express', 'Graphql'],
+  movile: ['Ionic', 'React Native'],
+  database: ['MySQL', 'SQL Server', 'Postgresql', 'Redis', 'Mongo DB']
+  other: ['Unreal Engine', 'Docker', 'Git', 'Arduino']
+  }
 ```
 
 #
