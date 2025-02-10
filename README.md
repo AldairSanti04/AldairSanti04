@@ -21,28 +21,17 @@ I am interested in new technologies and I am always looking for new challenges. 
 
 ```javascript
 const Aldair = {
-  pronouns: 'He' | 'Him',
   name: 'Jorge Aldair Santiago Rufino',
-  age: 23,
+  age: 26,
   birthday: 'April 27',
-  nicknames: ['Flash', 'Fleshito', 'Rufus', 'Rufito'],
-  programming: ['JavaScript', 'C++'],
+  nicknames: ['Flash', 'Rufus', 'Rufito'],
+  programming: ['JavaScript', 'Python'],
   frontend: ['HTML', 'CSS', 'Bootstrap', 'React'],
-  backend: ['Node', 'Express', 'Graphql'],
-  movile: ['Ionic', 'React Native'],
+  backend: ['Node', 'Express', 'Graphql', 'FastAPI'],
   database: ['MySQL', 'SQL Server', 'Postgresql', 'Redis', 'Mongo DB'],
   other: ['Unreal Engine', 'Docker', 'Git', 'Arduino']
   }
 ```
-
-#
-
-### My GitHub Stats ✨
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=AldairSanti04&show_icons=true&theme=tokyonight&hide=issues,contribs">
- <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairSanti04&show_icons=true&theme=tokyonight&hide=typescript&layout=compact">
-</p>
 
 #
 
